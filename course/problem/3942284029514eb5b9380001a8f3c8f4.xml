@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Which of the following statements best captures the tradeoff between capital goods and consumption goods in economic growth? &lt;&lt;&#10;&#10;(x) A society must balance the need for current consumption with the ability to consume more in the future.&#10;( ) A society can consume as much as it can now without any impact on future consumption.&#10;( ) Any increase in output will lead to economic growth because it allows a society to produce more goods and services today.&#10;( ) Society's best strategy for promoting wellbeing is to allocate as many resources toward capital goods as possible today.&#10;( ) There is no tradeoff between capital and consumer goods because both lead to an increase in economic growth &#10;">
+<multiplechoiceresponse>
+  <label>Which of the following statements best captures the tradeoff between capital goods and consumption goods in economic growth? </label>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">A society must balance the need for current consumption with the ability to consume more in the future.</choice>
+    <choice correct="false">A society can consume as much as it can now without any impact on future consumption.</choice>
+    <choice correct="false">Any increase in output will lead to economic growth because it allows a society to produce more goods and services today.</choice>
+    <choice correct="false">Society's best strategy for promoting wellbeing is to allocate as many resources toward capital goods as possible today.</choice>
+    <choice correct="false">There is no tradeoff between capital and consumer goods because both lead to an increase in economic growth</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

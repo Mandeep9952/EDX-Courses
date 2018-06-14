@@ -1,0 +1,14 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <img src="/static/test2.svg"/>
+<label>Which of the following movements would represent economic growth?</label>
+<description>Choose 1 answer:</description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">From U to Z</choice>
+    <choice correct="false">From U to Y</choice>
+    <choice correct="false">From U to W</choice>
+  	<choice correct="true">From Z to V</choice>
+    <choice correct="false">X to Z</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

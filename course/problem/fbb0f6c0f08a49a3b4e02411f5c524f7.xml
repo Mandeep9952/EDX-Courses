@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+<label>What are the four scarce resources that any economic system must allocate between society's competing wants and needs?</label>
+  <description><strong>Choose 1 answer:</strong> </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">High skilled workers, low skilled workers, knowledge workers, and service sector workers</choice>
+    <choice correct="true">Land resources, labor, capital goods, and entrepreneurship</choice>
+    <choice correct="false">Forest, minerals, ocean, and energy resources</choice>
+  <choice correct="false">Information technology, physical capital, financial capital, and high skilled workers</choice>
+  <choice correct="false">Machines, technology, minerals, and energy resources</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

@@ -1,0 +1,1734 @@
+{
+    "Economics.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "Economics.jpg", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Economics.jpg", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@Economics.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "Economics.jpg", 
+            null
+        ]
+    }, 
+    "Economics.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "Economics.png", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Economics.png", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@Economics.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "Economics-png.jpg", 
+            null
+        ]
+    }, 
+    "bf3f049f660492ac9ead572633a9bc9861606950.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "bf3f049f660492ac9ead572633a9bc9861606950.svg", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "bf3f049f660492ac9ead572633a9bc9861606950.svg", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@bf3f049f660492ac9ead572633a9bc9861606950.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "bf3f049f660492ac9ead572633a9bc9861606950.svg", 
+            null
+        ]
+    }, 
+    "e007750fcee5576ebd943f8687e1dcc0c1abf7c4.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "e007750fcee5576ebd943f8687e1dcc0c1abf7c4.svg", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "e007750fcee5576ebd943f8687e1dcc0c1abf7c4.svg", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@e007750fcee5576ebd943f8687e1dcc0c1abf7c4.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "e007750fcee5576ebd943f8687e1dcc0c1abf7c4.svg", 
+            null
+        ]
+    }, 
+    "greenhouse.jpeg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "greenhouse.jpeg", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "greenhouse.jpeg", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@greenhouse.jpeg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "greenhouse-jpeg.jpg", 
+            null
+        ]
+    }, 
+    "image1.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "image1.svg", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "image1.svg", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@image1.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "image1.svg", 
+            null
+        ]
+    }, 
+    "subs_-aVZtzD44vI.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_-aVZtzD44vI.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_-aVZtzD44vI.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_-aVZtzD44vI.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_-oClpRv7msg.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_-oClpRv7msg.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_-oClpRv7msg.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_-oClpRv7msg.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_00fgAG6VrRQ.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_00fgAG6VrRQ.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_00fgAG6VrRQ.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_00fgAG6VrRQ.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_0isM0GF-rMI.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_0isM0GF-rMI.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_0isM0GF-rMI.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_0isM0GF-rMI.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_3A-nAw2tY_4.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_3A-nAw2tY_4.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_3A-nAw2tY_4.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_3A-nAw2tY_4.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_3_yD_cEKoCk.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_3_yD_cEKoCk.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_3_yD_cEKoCk.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_3_yD_cEKoCk.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_3nbalsyibKU.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_3nbalsyibKU.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_3nbalsyibKU.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_3nbalsyibKU.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_3xCzhdVtdMI.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_3xCzhdVtdMI.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_3xCzhdVtdMI.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_3xCzhdVtdMI.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_4lBmOfNtYLE.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_4lBmOfNtYLE.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_4lBmOfNtYLE.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_4lBmOfNtYLE.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_7n_Hf_UsW7I.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_7n_Hf_UsW7I.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_7n_Hf_UsW7I.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_7n_Hf_UsW7I.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_7siSvYs84fg.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_7siSvYs84fg.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_7siSvYs84fg.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_7siSvYs84fg.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_8JYP_wU1JTU.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_8JYP_wU1JTU.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_8JYP_wU1JTU.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_8JYP_wU1JTU.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_8W0iZk8Yxhs.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_8W0iZk8Yxhs.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_8W0iZk8Yxhs.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_8W0iZk8Yxhs.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_98qfFzqDKR8.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_98qfFzqDKR8.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_98qfFzqDKR8.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_98qfFzqDKR8.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_9G7ZWwlR_tQ.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_9G7ZWwlR_tQ.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_9G7ZWwlR_tQ.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_9G7ZWwlR_tQ.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_9zZY6RfN6iA.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_9zZY6RfN6iA.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_9zZY6RfN6iA.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_9zZY6RfN6iA.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_AaR1mPrdbTc.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_AaR1mPrdbTc.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_AaR1mPrdbTc.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_AaR1mPrdbTc.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_AimYG1jYD0A.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_AimYG1jYD0A.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_AimYG1jYD0A.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_AimYG1jYD0A.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_C-xLUS5JGIM.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_C-xLUS5JGIM.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_C-xLUS5JGIM.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_C-xLUS5JGIM.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_C1pHvEAKmLA.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_C1pHvEAKmLA.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_C1pHvEAKmLA.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_C1pHvEAKmLA.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_C8Eb4-Wz27A.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_C8Eb4-Wz27A.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_C8Eb4-Wz27A.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_C8Eb4-Wz27A.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_C9onjpQGpSg.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_C9onjpQGpSg.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_C9onjpQGpSg.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_C9onjpQGpSg.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_EH4g3qbc_vo.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_EH4g3qbc_vo.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_EH4g3qbc_vo.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_EH4g3qbc_vo.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_FPh6EDv0Eew.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_FPh6EDv0Eew.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_FPh6EDv0Eew.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_FPh6EDv0Eew.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_GiB9Mkgkrek.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_GiB9Mkgkrek.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_GiB9Mkgkrek.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_GiB9Mkgkrek.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_GtaoP0skPWc.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_GtaoP0skPWc.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_GtaoP0skPWc.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_GtaoP0skPWc.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_HdqbCvqTb20.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_HdqbCvqTb20.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_HdqbCvqTb20.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_HdqbCvqTb20.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_Hfz1bwK5C4o.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_Hfz1bwK5C4o.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_Hfz1bwK5C4o.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_Hfz1bwK5C4o.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_I7FDx4DPapw.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_I7FDx4DPapw.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_I7FDx4DPapw.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_I7FDx4DPapw.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_K8p0F92gVUM.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_K8p0F92gVUM.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_K8p0F92gVUM.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_K8p0F92gVUM.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_L-0LuSw2bTM.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_L-0LuSw2bTM.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_L-0LuSw2bTM.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_L-0LuSw2bTM.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_N9VIsauE0RA.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_N9VIsauE0RA.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_N9VIsauE0RA.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_N9VIsauE0RA.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_NMb3bguJ7wY.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_NMb3bguJ7wY.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_NMb3bguJ7wY.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_NMb3bguJ7wY.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_NgPqyM3I_8o.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_NgPqyM3I_8o.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_NgPqyM3I_8o.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_NgPqyM3I_8o.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_NrlF8mMHfLE.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_NrlF8mMHfLE.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_NrlF8mMHfLE.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_NrlF8mMHfLE.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_O2jO5AwTkT0.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_O2jO5AwTkT0.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_O2jO5AwTkT0.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_O2jO5AwTkT0.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_O_Oozju3RRI.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_O_Oozju3RRI.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_O_Oozju3RRI.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_O_Oozju3RRI.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_PEMkfgrifDw.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_PEMkfgrifDw.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_PEMkfgrifDw.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_PEMkfgrifDw.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_Qh-M3_L4xYk.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_Qh-M3_L4xYk.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_Qh-M3_L4xYk.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_Qh-M3_L4xYk.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_Qh8hO9j76R4.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_Qh8hO9j76R4.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_Qh8hO9j76R4.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_Qh8hO9j76R4.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_Rgr1vRjxzFg.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_Rgr1vRjxzFg.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_Rgr1vRjxzFg.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_Rgr1vRjxzFg.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_SXMhCO2vYcE.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_SXMhCO2vYcE.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_SXMhCO2vYcE.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_SXMhCO2vYcE.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_ShzPtU7IOXs.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_ShzPtU7IOXs.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_ShzPtU7IOXs.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_ShzPtU7IOXs.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_TXrOpjG4dUs.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_TXrOpjG4dUs.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_TXrOpjG4dUs.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_TXrOpjG4dUs.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_TeAzW_tY6m4.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_TeAzW_tY6m4.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_TeAzW_tY6m4.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_TeAzW_tY6m4.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_Uqf5c6Xcjr4.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_Uqf5c6Xcjr4.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_Uqf5c6Xcjr4.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_Uqf5c6Xcjr4.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_UsJmBBtwzYY.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_UsJmBBtwzYY.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_UsJmBBtwzYY.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_UsJmBBtwzYY.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_V41_kZuOE0w.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_V41_kZuOE0w.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_V41_kZuOE0w.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_V41_kZuOE0w.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_Ve6K10-Yx_M.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_Ve6K10-Yx_M.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_Ve6K10-Yx_M.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_Ve6K10-Yx_M.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_W9MuBVpEc78.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_W9MuBVpEc78.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_W9MuBVpEc78.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_W9MuBVpEc78.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_Ye5hH6ku1L8.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_Ye5hH6ku1L8.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_Ye5hH6ku1L8.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_Ye5hH6ku1L8.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_YtX6SGw7E3c.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_YtX6SGw7E3c.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_YtX6SGw7E3c.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_YtX6SGw7E3c.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_Z9b8nnvpim0.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_Z9b8nnvpim0.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_Z9b8nnvpim0.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_Z9b8nnvpim0.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_Zt1Esq-qOZM.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_Zt1Esq-qOZM.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_Zt1Esq-qOZM.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_Zt1Esq-qOZM.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs__7VHfuWV-Qg.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs__7VHfuWV-Qg.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs__7VHfuWV-Qg.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs__7VHfuWV-Qg.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs__LPh72gx6GE.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs__LPh72gx6GE.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs__LPh72gx6GE.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs__LPh72gx6GE.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs__qpgzgkrB6A.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs__qpgzgkrB6A.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs__qpgzgkrB6A.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs__qpgzgkrB6A.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_cNm196bVE5A.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_cNm196bVE5A.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_cNm196bVE5A.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_cNm196bVE5A.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_dD_9KBz3pN0.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_dD_9KBz3pN0.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_dD_9KBz3pN0.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_dD_9KBz3pN0.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_dirBYVjDk7A.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_dirBYVjDk7A.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_dirBYVjDk7A.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_dirBYVjDk7A.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_do1HDIdfQkU.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_do1HDIdfQkU.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_do1HDIdfQkU.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_do1HDIdfQkU.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_eic0CC-1d9E.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_eic0CC-1d9E.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_eic0CC-1d9E.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_eic0CC-1d9E.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_f5o5LpUcxVk.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_f5o5LpUcxVk.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_f5o5LpUcxVk.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_f5o5LpUcxVk.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_fToDs5nd_rE.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_fToDs5nd_rE.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_fToDs5nd_rE.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_fToDs5nd_rE.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_fs12fX407GU.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_fs12fX407GU.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_fs12fX407GU.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_fs12fX407GU.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_fxvsb373URw.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_fxvsb373URw.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_fxvsb373URw.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_fxvsb373URw.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_gd8B-zrMSYk.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_gd8B-zrMSYk.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_gd8B-zrMSYk.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_gd8B-zrMSYk.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_iC9hkhbIimA.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_iC9hkhbIimA.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_iC9hkhbIimA.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_iC9hkhbIimA.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_iNemmT1hnzA.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_iNemmT1hnzA.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_iNemmT1hnzA.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_iNemmT1hnzA.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_iaGjqkRIUSk.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_iaGjqkRIUSk.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_iaGjqkRIUSk.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_iaGjqkRIUSk.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_itoNb1lb5hY.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_itoNb1lb5hY.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_itoNb1lb5hY.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_itoNb1lb5hY.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_iy-fhpbTH9E.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_iy-fhpbTH9E.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_iy-fhpbTH9E.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_iy-fhpbTH9E.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_jAjU3cR99p0.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_jAjU3cR99p0.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_jAjU3cR99p0.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_jAjU3cR99p0.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_jHp4fnrEA6w.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_jHp4fnrEA6w.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_jHp4fnrEA6w.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_jHp4fnrEA6w.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_khDAji7dXw0.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_khDAji7dXw0.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_khDAji7dXw0.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_khDAji7dXw0.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_kl4n-EWwPyA.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_kl4n-EWwPyA.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_kl4n-EWwPyA.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_kl4n-EWwPyA.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_lBDT2w5Wl84.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_lBDT2w5Wl84.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_lBDT2w5Wl84.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_lBDT2w5Wl84.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_mFI58RRCDbs.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_mFI58RRCDbs.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_mFI58RRCDbs.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_mFI58RRCDbs.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_oLhohwfwf_U.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_oLhohwfwf_U.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_oLhohwfwf_U.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_oLhohwfwf_U.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_ok2vtKnSZzY.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_ok2vtKnSZzY.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_ok2vtKnSZzY.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_ok2vtKnSZzY.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_pkEiHZAtoro.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_pkEiHZAtoro.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_pkEiHZAtoro.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_pkEiHZAtoro.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_qgxapLrA_NM.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_qgxapLrA_NM.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_qgxapLrA_NM.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_qgxapLrA_NM.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_rs1md3e4aYU.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_rs1md3e4aYU.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_rs1md3e4aYU.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_rs1md3e4aYU.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_s4W7LKK22_Q.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_s4W7LKK22_Q.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_s4W7LKK22_Q.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_s4W7LKK22_Q.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_scN-1B6plos.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_scN-1B6plos.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_scN-1B6plos.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_scN-1B6plos.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_uETL47DhlUo.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_uETL47DhlUo.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_uETL47DhlUo.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_uETL47DhlUo.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_v5YT8GlSxoU.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_v5YT8GlSxoU.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_v5YT8GlSxoU.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_v5YT8GlSxoU.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_v7ZWTZ9NgU4.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_v7ZWTZ9NgU4.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_v7ZWTZ9NgU4.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_v7ZWTZ9NgU4.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_wYuAwm-5-Bk.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_wYuAwm-5-Bk.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_wYuAwm-5-Bk.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_wYuAwm-5-Bk.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_xN3UV5FsBkU.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_xN3UV5FsBkU.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_xN3UV5FsBkU.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_xN3UV5FsBkU.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_xx9xNJlPOJo.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_xx9xNJlPOJo.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_xx9xNJlPOJo.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_xx9xNJlPOJo.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_zh8XASZxo1Q.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "subs_zh8XASZxo1Q.srt.sjson", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_zh8XASZxo1Q.srt.sjson", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@subs_zh8XASZxo1Q.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "test2.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "test2.svg", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "test2.svg", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@test2.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "test2.svg", 
+            null
+        ]
+    }
+}

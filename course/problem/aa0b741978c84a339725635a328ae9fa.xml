@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Which of the following concepts can be modeled using a PPC? &lt;&lt;&#10;&#10;( ) Prices that the goods will sell for will be determined in a market&#10;( ) Societies have preferences about what should be produced&#10;( ) Governments, rather than markets, are more efficient allocators of resources&#10;(x) When all resources are being used, making more of one good means making less of the other good.&#10;( ) A society can produce more of any good just by reallocating its resources more efficiently&#10;">
+<multiplechoiceresponse>
+  <label>Which of the following concepts can be modeled using a PPC? </label>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">Prices that the goods will sell for will be determined in a market</choice>
+    <choice correct="false">Societies have preferences about what should be produced</choice>
+    <choice correct="false">Governments, rather than markets, are more efficient allocators of resources</choice>
+    <choice correct="true">When all resources are being used, making more of one good means making less of the other good.</choice>
+    <choice correct="false">A society can produce more of any good just by reallocating its resources more efficiently</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Which of the following would NOT be part of the opportunity costs of going to college? &lt;&lt;&#10;&#10;( ) The money spent on tuition&#10;( ) Interest payments on student loans&#10;( ) Money spent on textbooks&#10;( ) Foregone wages given up to attend college&#10;(x) Money spent on clothes&#10;">
+<multiplechoiceresponse>
+  <label>Which of the following would NOT be part of the opportunity costs of going to college? </label>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">The money spent on tuition</choice>
+    <choice correct="false">Interest payments on student loans</choice>
+    <choice correct="false">Money spent on textbooks</choice>
+    <choice correct="false">Foregone wages given up to attend college</choice>
+    <choice correct="true">Money spent on clothes</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>
