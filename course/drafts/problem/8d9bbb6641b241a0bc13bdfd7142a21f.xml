@@ -1,0 +1,14 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+<label>Which of the following movements would represent an increase in the demand for a good?</label>
+  <img src="/static/aa.PNG"/>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">From S to R</choice>
+    <choice correct="false">From R to S</choice>
+    <choice correct="false">From T to U</choice>
+  	<choice correct="false">From R to T</choice>
+    <choice correct="false">From S to U</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>
