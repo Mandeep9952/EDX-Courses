@@ -1,0 +1,14 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Land in the United States can be used to produce either soybeans or corn. The price of soybean fertilizer has fallen due to cheaper imports from China.</p>
+<label>What will change for soybeans and corn?</label>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">Supply of both corn and soybeans will increase</choice>
+    <choice correct="false">Supply of soybeans will decrease and supply of corn will increase</choice>
+    <choice correct="true">Supply of soybeans will increase and the supply of corn will decrease</choice>
+      <choice correct="false">Quantity supplied of corn and quantity supplied of soybeans will both increase</choice>
+      <choice correct="false">Quantity supplied of corn and quantity supplied of soybeans will both decrease</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

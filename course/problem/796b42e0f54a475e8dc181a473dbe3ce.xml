@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>How will nominal wages respond to a decrease in the price level in the short run?</p>
+<description>Choose 1 answer:</description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">Nominal wages will decrease by the same change as the decrease in the price level</choice>
+    <choice correct="false">Nominal wages will increase in an amount greater than the decrease in the price level</choice>
+    <choice correct="true">Nominal wages will not change, or will change in an amount smaller than the change in the price level</choice>
+      <choice correct="false">Nominal wages will increase in an amount equal to the decrease in the price level</choice>
+      <choice correct="false">Nominal wages will decrease by a greater change than the change in the price level</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

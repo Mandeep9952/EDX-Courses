@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Which of the following would best be described as a positive statement?</p>
+<label>Choose 1 answer:</label>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">Free markets are inherently unfair institutions</choice>
+    <choice correct="true">Countries normally experience higher unemployment during recessions</choice>
+    <choice correct="false">Business profits should be redistributed through taxes to benefit more of society</choice>
+      <choice correct="false">    <choice correct="false">Business profits should be redistributed through taxes to benefit more of society</choice></choice>
+      <choice correct="false">The focus of government spending should be on improving wellbeing</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

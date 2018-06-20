@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Which of the following is the best definition of a real variable?</p>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">variables measured in current values</choice>
+    <choice correct="true">nominal values deflated by the price level</choice>
+    <choice correct="false">real variables deflated by the price level</choice>
+    <choice correct="false">nominal variables that are tracked over time</choice>
+    <choice correct="false">an increase in the price level</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

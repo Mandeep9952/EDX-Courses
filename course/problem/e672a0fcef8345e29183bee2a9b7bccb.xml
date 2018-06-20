@@ -1,0 +1,16 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Alex can split his time doing chores between only two activities: folding laundry and cooking meals. His production possibilities curve is shown here.</p>
+  <img src="/static/bb.png.png"/>
+<label>A PPC with points illustrating different combinations of production</label>
+  <label>Based on Alex's PPC, which of the following statements best describes what we can say about how he should split his time?</label>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">He should produce at point BBBB because he has time left over to do other chores</choice>
+    <choice correct="false">He should produce the combination at point CCCC because it represents the most laundry folded and meals cooked</choice>
+    <choice correct="true">We cannot tell how he should split his time</choice>
+  	<choice correct="false">He should produce the combination at point EEEE because he splits his time between the two activities</choice>
+   	<choice correct="false">He should produce at point AAAA because food is a need but laundry is not</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

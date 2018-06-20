@@ -1,0 +1,14 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>In 2017 Spamland's real GDP was $50 billion and the GDP deflator was 120. </p>
+<label>What was Spamland's nominal GDP in 2017?</label>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">$20 billion</choice>
+    <choice correct="false">$0.416 billion</choice>
+    <choice correct="true">$60 billion</choice>
+  <choice correct="false">$6,000 billion</choice>
+  <choice correct="false">$41.6 billion</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

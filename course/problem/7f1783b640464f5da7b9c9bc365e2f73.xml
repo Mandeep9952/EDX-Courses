@@ -1,0 +1,14 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Spending by households is counted in the consumption category of gross domestic product, but there is one kind of household spending that is included in the investment category instead.</p>
+<label>Which type of household spending is recorded as investment towards a country's gross domestic product?</label>
+<description>YChoose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">The purchase of new cars</choice>
+    <choice correct="false">The purchase of government bonds </choice>
+  	<choice correct="false">The purchase by home computers</choice>
+  	<choice correct="true">The purchase of new homes</choice>
+  	<choice correct="false">The purchase of college tuition</choice>
+   </choicegroup>
+</multiplechoiceresponse>
+</problem>

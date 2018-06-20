@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Which of the following shift in aggregate demand and short-run aggregate supply would cause an unambiguous increase in inflation?</p>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">An increase in AD and a decrease in SRAS</choice>
+    <choice correct="false">No change in AD and an increase in SRAS</choice>
+    <choice correct="false">A decrease in AD and an increase in SRAS</choice>
+  	<choice correct="false">A decrease in AD and a decrease in SRAS</choice>
+    <choice correct="false">An increase in AD and an increase in SRAS</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

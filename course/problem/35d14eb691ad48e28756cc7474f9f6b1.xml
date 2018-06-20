@@ -1,0 +1,31 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Alex and Henry are completing group work for class. The input table below gives the time that it takes Henry and and Alex to complete their homework assignments in hours.</p>
+  <table>
+    <th>
+      <td/>
+      <td>Time to complete Worksheets</td>
+      <td>Time to complete Essays</td>
+    </th>  
+    <tr>
+      <td>Henry</td>
+      <td>1 hour</td>
+      <td>2 hours</td>
+    </tr>
+    <tr>
+      <td>Alex</td>
+      <td>1 hour</td>
+      <td>2 hours</td>
+    </tr>
+  </table>
+<label>Who has comparative advantage in producing essays?</label>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">Alex</choice>
+    <choice correct="true">Henry</choice>
+    <choice correct="false">Neither Henry nor Alex</choice>
+  <choice correct="false">Both Henry and Alex</choice>
+  <choice correct="false">We cannot determine who has comparative advantage</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

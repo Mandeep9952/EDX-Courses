@@ -1,0 +1,15 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Aggregate demand (AD) has changed in Jabberton, as illustrated in the graph shown here.</p>
+  <img src="/static/pl.png"/>
+<label>Which of the following best describes a movement that would result from a decrease in personal income taxes?</label>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">D to B</choice>
+    <choice correct="true">A to B</choice>
+    <choice correct="false">A to C</choice>
+    <choice correct="false">D to C</choice>
+    <choice correct="false">A decrease in taxes would not cause any movement</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

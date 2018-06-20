@@ -1,0 +1,23 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Which of the following graphs correctly shows an economy experiencing economic growth?</p>
+<description>Choose 1 answer:</description>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">
+      <img src="/static/plA.png"/>	
+     </choice>
+    <choice correct="false">
+      <img src="/static/plB.png"/>
+  	</choice>
+    <choice correct="false">
+        <img src="/static/plC.png"/>
+  	</choice>
+      <choice correct="false">
+        <img src="/static/plD.png"/>
+  	</choice>
+      <choice correct="false">
+        <img src="/static/plE.png"/>
+  	</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

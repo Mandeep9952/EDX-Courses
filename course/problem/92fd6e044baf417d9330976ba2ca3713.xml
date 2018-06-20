@@ -1,0 +1,14 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Assume the government of Hamsterville increases taxation and reduces government spending. These actions cause a fall in total spending in the economy.</p>
+<label>Which of the following is the best description of the type of unemployment the fall in output will have?</label>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">Structural unemployment</choice>
+    <choice correct="false">The natural rate of unemployment (NRU)</choice>
+  <choice correct="false">Seasonal unemployment</choice>
+  <choice correct="true">Cyclical unemployment</choice>
+    <choice correct="false">Frictional unemployment</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

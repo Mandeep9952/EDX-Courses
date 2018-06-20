@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Which of the following agents would benefit from unanticipated inflation?</p>
+<description>Choose 1 answer:</description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">The soldiers of Westeros, who are paid wages based on the salary negotiated last year</choice>
+    <choice correct="true">Grey Worm, who has $3,000 in student loan debt that has a fixed interest rate of 3.5%</choice>
+    <choice correct="false">Olenna, who has stashed away money in a cave</choice>
+    <choice correct="false">Ygritte, who loaned Robb money last year at 3%</choice>
+    <choice correct="false">Bran, whose nominal income is the same every month</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

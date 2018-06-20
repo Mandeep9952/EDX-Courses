@@ -1,0 +1,14 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>A steady decline in the price level for many years indicates that Westeros has been experiencing deflation.</p>
+<label>Which of the following agents is most likely to be negatively impacted by the deflation in Westeros?</label>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">The Iron Bank of Bravos, which has loaned $1 million to the the King interest free</choice>
+    <choice correct="false">Hodor, who has $500 in a bank account earning 1% interest every year</choice>
+    <choice correct="true">The King, who owes a lot of money to the Iron Bank</choice>
+    <choice correct="false">A girl who has stored $20 in her mattress for 2 years</choice>
+    <choice correct="false">The elderly citizens of Westeros, who receive $200 every month as a pension</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

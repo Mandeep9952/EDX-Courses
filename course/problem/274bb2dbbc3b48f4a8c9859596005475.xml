@@ -1,0 +1,14 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Which of the following terms describes a situation in which there is an excess quantity demanded in a market?</p>
+
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">Excess supply</choice>
+    <choice correct="true">Shortage</choice>
+    <choice correct="false">Equilibrium</choice>
+    <choice correct="false">Efficiency</choice>
+    <choice correct="false">Surplus</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

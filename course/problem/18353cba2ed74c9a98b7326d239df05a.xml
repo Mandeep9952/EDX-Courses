@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+<label>Which of the following is NOT a scarce economic resource?</label>
+<description>Choose 1 answer:</description>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">Money</choice>
+    <choice correct="false">Capital</choice>
+    <choice correct="false">Labor</choice>
+  	<choice correct="false">Water</choice>
+  	<choice correct="false">Land</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

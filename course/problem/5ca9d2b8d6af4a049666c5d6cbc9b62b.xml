@@ -1,0 +1,15 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+<label>Which of the graphs below correctly illustrates a market in equilibrium?</label>
+  
+<description>Choose 1 Answer </description>
+  <img src="/static/a.desktop"/>
+<choicegroup type="MultipleChoice">
+    <choice correct="false"><img src="/static/a.PNG"/></choice>
+  <choice correct="flase"><img src="/static/b.PNG"/></choice>
+  <choice correct="true"><img src="/static/c.PNG"/></choice>
+  <choice correct="false"><img src="/static/d.PNG"/></choice>
+  <choice correct="false"><img src="/static/e.PNG"/></choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

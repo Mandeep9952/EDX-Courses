@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Which of the following correctly describes the sequence of phases in a typical business cycle?</p>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">Expansion, peak, recession, trough</choice>
+    <choice correct="false">Expansion, recession, trough, peak</choice>
+    <choice correct="false">Growth, contraction, trough, recovery</choice>
+  <choice correct="false">Recession, peak, contraction, expansion</choice>
+  <choice correct="false">Boom, contraction, bust, recovery</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

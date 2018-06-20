@@ -1,0 +1,29 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>The marginal propensity to consume in the nation of Erd is 0.75</p>
+<label>What is the value of the government spending multiplier and what is the value of the tax multiplier?</label>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">
+      <p>Government spending multiplier = 4</p>
+      <p>tax multiplier = -3</p>
+  	</choice>
+    <choice correct="false">
+      <p>Government spending multiplier = 3</p>
+      <p>tax multiplier = -4</p>
+  	</choice>
+      <choice correct="false">
+      <p>Government spending multiplier = 1.33</p>
+      <p>tax multiplier = -0.33</p>
+  	</choice>
+      <choice correct="false">
+      <p>Government spending multiplier = 4</p>
+      <p>tax multiplier = -5</p>
+  	</choice>
+      <choice correct="false">
+      <p>Government spending multiplier = 0.75</p>
+      <p>tax multiplier = -1.75</p>
+  	</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

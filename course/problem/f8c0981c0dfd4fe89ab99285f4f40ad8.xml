@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>The expenditure categories of real GDP in 2017 for two countries (Hamsterville and Gerbilalia) are given below:</p>
+  <table>
+    <th>
+      <td>Category</td>
+      <td>Spending by Hamsterville</td>
+      <td>Spending by Gerbilalia</td>
+    </th>
+    <tr>
+      <td>C</td>
+      <td>$100</td>
+      <td>$100</td>
+    </tr>
+    <tr>
+      <td>I</td>
+      <td>$100</td>
+      <td>$100</td>
+    </tr>
+    <tr>
+      <td>G</td>
+      <td>$10</td>
+      <td>$10</td>
+    </tr>
+    <tr>
+      <td>NX</td>
+      <td>$-10</td>
+      <td>$-10</td>
+    </tr>
+    <tr>
+      <td>TOTAL</td>
+      <td>$150</td>
+      <td>$150</td>
+    </tr>
+  </table>
+<label>An economics student doing her dissertation on economic development in these two countries has noticed that the rate of capital depreciation in Hamsterville is twice as high as in Gerbilalia.</label>
+  <lable>Which of the following best describes a criticism of using GDP to compare these two countries that we can infer based on this information?</lable>
+<description>Choose 1 answer:</description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">Both have trade deficits</choice>
+    <choice correct="false">One country likely has higher levels of pollution</choice>
+    <choice correct="false">There is no criticism of GDP as a measure of output here because these two countries have identical GDP</choice>
+      <choice correct="false">One country has highly unequal distribution of income</choice>
+      <choice correct="true">Hamsterville will grow at a slower rate because more of its investment is replacing old capital</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

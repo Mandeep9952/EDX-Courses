@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>If unemployed workers decide to stop looking for a job and instead enroll in further education, how will the number of employed workers and the unemployment rate change?</p>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">The number of employed workers does not change; the unemployment rate decreases</choice>
+    <choice correct="true">The number of employed workers does not change; the unemployment rate does not change</choice>
+    <choice correct="false">The number of employed workers increases; the unemployment rate decreases</choice>
+    <choice correct="false">The number of employed workers decreases; the unemployment rate increases</choice>
+    <choice correct="false">The number of employed workers does not change; the unemployment rate increases</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

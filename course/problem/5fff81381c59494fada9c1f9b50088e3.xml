@@ -1,0 +1,71 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Use the figure shown to answer the question.</p>
+  <img src="/static/cc.png"/>
+<label>Two supply curves</label>
+<description>According to each supply curve, what quantities would be produced at $30? </description>
+  <p>Choose 1 answer:</p>
+<choicegroup type="MultipleChoice">
+  <choice correct="true">
+    <table>
+      <th>
+        <td>Qs on S1</td>
+        <td>Qs on S2</td>
+      </th>
+      <tr>
+        <td>40</td>
+        <td>0</td>
+      </tr>
+    </table>
+  </choice>
+    <choice correct="false">
+          <table>
+      <th>
+        <td>Qs on S1</td>
+        <td>Qs on S2</td>
+      </th>
+      <tr>
+        <td>30</td>
+        <td>30</td>
+      </tr>
+    </table>
+  	</choice>
+    <choice correct="false">
+  		    <table>
+      <th>
+        <td>Qs on S1</td>
+        <td>Qs on S2</td>
+      </th>
+      <tr>
+        <td>30</td>
+        <td>10</td>
+      </tr>
+    </table>	
+  </choice>
+      <choice correct="false">
+  		    <table>
+      <th>
+        <td>Qs on S1</td>
+        <td>Qs on S2</td>
+      </th>
+      <tr>
+        <td>0</td>
+        <td>30</td>
+      </tr>
+    </table>	
+  </choice>
+      <choice correct="false">
+  		    <table>
+      <th>
+        <td>Qs on S1</td>
+        <td>Qs on S2</td>
+      </th>
+      <tr>
+        <td>0</td>
+        <td>0</td>
+      </tr>
+    </table>	
+  </choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

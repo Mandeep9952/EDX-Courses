@@ -1,0 +1,16 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>Lincolnland has a progressive income tax and a social insurance program that provides unemployed workers with a basic income while they are searching for jobs. The country experienced a shock and is now producing real GDP equal to Y2, as indicated in the AD-AS model shown here.</p>
+  <img src="/static/plF.png"/>
+<label>Which of the following best describes what will happen to transfer payments and income taxes as a result of the decrease in AD?</label>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">Transfer payments will increase; taxes will decrease</choice>
+    <choice correct="false">Taxes and transfer payments will both increase</choice>
+    <choice correct="false">Transfer payments will not be affected; taxes will decrease</choice>
+    <choice correct="false">Transfer payments will decrease; taxes will increase</choice>
+  	<choice correct="false">Transfer payments will increase; taxes will not be affected</choice>
+
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

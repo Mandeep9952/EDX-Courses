@@ -119,6 +119,30 @@
             null
         ]
     }, 
+    "bb.png.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "bb.png.png", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "bb.png.png", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@bb.png.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "bb.png-png.jpg", 
+            null
+        ]
+    }, 
     "bf3f049f660492ac9ead572633a9bc9861606950.svg": {
         "contentType": "image/svg+xml", 
         "content_son": {
@@ -164,6 +188,30 @@
             "CS103", 
             "thumbnail", 
             "c-PNG.jpg", 
+            null
+        ]
+    }, 
+    "cc.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "cc.png", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "cc.png", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@cc.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "cc-png.jpg", 
             null
         ]
     }, 
@@ -284,6 +332,174 @@
             "CS103", 
             "thumbnail", 
             "image1.svg", 
+            null
+        ]
+    }, 
+    "pl.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "pl.png", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "pl.png", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@pl.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "pl-png.jpg", 
+            null
+        ]
+    }, 
+    "plA.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "plA.png", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "plA.png", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@plA.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "plA-png.jpg", 
+            null
+        ]
+    }, 
+    "plB.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "plB.png", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "plB.png", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@plB.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "plB-png.jpg", 
+            null
+        ]
+    }, 
+    "plC.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "plC.png", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "plC.png", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@plC.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "plC-png.jpg", 
+            null
+        ]
+    }, 
+    "plD.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "plD.png", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "plD.png", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@plD.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "plD-png.jpg", 
+            null
+        ]
+    }, 
+    "plE.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "plE.png", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "plE.png", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@plE.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "plE-png.jpg", 
+            null
+        ]
+    }, 
+    "plF.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CS103", 
+            "name": "plF.png", 
+            "org": "Chelsea98", 
+            "revision": null, 
+            "run": "2018_T3", 
+            "tag": "c4x"
+        }, 
+        "displayname": "plF.png", 
+        "filename": "asset-v1:Chelsea98+CS103+2018_T3+type@asset+block@plF.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Chelsea98", 
+            "CS103", 
+            "thumbnail", 
+            "plF-png.jpg", 
             null
         ]
     }, 

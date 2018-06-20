@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="null">
+<multiplechoiceresponse>
+  <p>What will happen to the size of the expenditure multiplier and the size of the tax multiplier when the marginal propensity to save (MPS) increases?</p>
+<description>Choose 1 answer: </description>
+<choicegroup type="MultipleChoice">
+    <choice correct="true">Both decrease</choice>
+    <choice correct="false">Both increase</choice>
+    <choice correct="false">The size of the tax multiplier increases, the size of the spending multiplier decreases</choice>
+  <choice correct="false">The size of the tax multiplier doesn't change, the size of the spending multiplier increases</choice>
+  <choice correct="false">The size of the tax multiplier increases, the size of the spending multiplier doesn't change</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>
